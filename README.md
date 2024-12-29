@@ -23,7 +23,7 @@ Each book entry should include the following fields:
 ## Installation
 1. Clone this repository:
    ```bash
-   git clone https://github.com/yourusername/book-directory-api.git
+   https://github.com/AlsonAfrica/Node.js-Books-Directory.git
    ```
 2. Navigate to the project directory:
    ```bash
